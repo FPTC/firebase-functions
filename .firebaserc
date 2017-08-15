@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "staging": "fptc-test",
+    "dev": "fptc-dev",
+    "test": "fptc-test",
+    "default": "fptc-dev",
+    "fptc-test": "fptc-test",
+    "fptc-dev": "fptc-dev",
+    "amate-prd": "amate-b8ceb"
+  }
+}
